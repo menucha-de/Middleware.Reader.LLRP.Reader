@@ -1,0 +1,7 @@
+Package: ${Bundle-SymbolicName}
+Version: ${Bundle-Version}
+Architecture: all
+Depends: havis.middleware.reader.llrp-service
+Recommends: havis.middleware.ale-impl
+Maintainer: ${Bundle-Vendor}
+Description: ${Bundle-Name}
