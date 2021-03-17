@@ -54,23 +54,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.concurrent.Semaphore;
 
-/*****************************************************************************/
-/*    FILE  NAME               	: ALLRPReaderConnector                       */
-/*    HOLDER OF RIGHTS OF USE	: HARTING KGaA                               */
-/*    DATE OF FIRST RELEASE 	: ??? 2011                                   */
-/*    AUTHOR                	: IT-AS RFID SW TEAM                         */
-/*    DESCRIPTION           	: This file contains base functions to       */
-/*                            	  communicate with all LLRP Readers          */
-/*---------------------------------------------------------------------------*/
-/* CHANGE HISTORY :                                                          */
-/*---------------------------------------------------------------------------*/
-/* VERSION    DATE/                   DESCRIPTION OF CHANGE/                 */
-/*            MODIFIED BY             FAULT REPORT NO                        */
-/*---------------------------------------------------------------------------*/
-/* 1.5.0.0    ??? 2011                Initial Create.                        */
-/*            IT-AS RFID SW TEAM                                             */
-/*****************************************************************************/
-
 /**
  * Abstract class that provides base functionality for communicating with all
  * LLRP readers.
